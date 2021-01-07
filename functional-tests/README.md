@@ -41,7 +41,7 @@ source ~/.bash_profile
 cd src/
 
 ### Classes
-javac -d ../bin/ test/functional/FunctionalTest.java
+javac -d ../bin/ test/functional/HomePageTest.java
 ```
 
 ## Then run your test cases (from bin tests folder)
